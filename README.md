@@ -4,13 +4,13 @@ This program creates gif from images using Nodejs, [Shotstack Node SDK](https://
 
 ### What is Shotstack API?
 
-Shotstack API is a cloud based video editing API that enables you to render multiple videos concurrently in the cloud using your favourite programming language. Sign up for a free developer account [here](https://dashboard.shotstack.io/register?utm_source=github&utm_campaign=sample_demos) to get your API key. 
+Shotstack API is a cloud based meida editing API that enables you to render multiple gif concurrently in the cloud using your favourite programming language. Sign up for a free developer account [here](https://dashboard.shotstack.io/register?utm_source=github&utm_campaign=sample_demos) to get your API key. 
 
 ### Why use Shotstack API?
 
-Rendering videos is a resource consuming process. It may take several minutes to render one video depending on the complexity of the video. Shotstack enables to concurrently render multiple videos in the powerful cloud infrastructure. This reduces rendering time and fastens the process. Visit our [Docs](https://shotstack.io/docs/guide/getting-started/core-concepts/?utm_source=github&utm_campaign=sample_demos) to learn more.
+Rendering media files is a resource consuming process. It may take several minutes to render one video depending on the complexity. Shotstack enables to concurrently render multiple media files in the powerful cloud infrastructure. This reduces rendering time and fastens production process without having to build your own infrastructure. Visit our [Docs](https://shotstack.io/docs/guide/getting-started/core-concepts/?utm_source=github&utm_campaign=sample_demos) to learn more.
 
-Checkout other video editing demo examples using Node in this [Github repo](https://github.com/shotstack/node-demos).
+Checkout other media manipulation demo examples using Nodejs in this [Github repo](https://github.com/shotstack/node-demos).
 
 
 ### Installation
@@ -58,25 +58,25 @@ To run this program, run the `gif.js` inside the root folder:
 node gif.js
 ```
 
-### Final video example
+### Final gif example
 
-[Here](https://d1uej6xx5jo4cd.cloudfront.net/basic-slideshow-nodejs.mp4) is what the final video looks like.
+[Here](https://cdn.shotstack.io/au/stage/c9npc4w5c4/f0a7eb51-844f-4dc4-b8ff-34a4d843d8c2.gif) is what the final media file looks like.
 
-### Accessing rendered videos
+### Accessing rendered media
 
-To access your rendered videos, sign into your Shotstack account. Inside the dashboard, you can find all rendered videos under Renders tab.
+To access your rendered media files, sign into your Shotstack account. Inside the dashboard, you can find all rendered gif under Renders tab.
 
 ![Alt Text](https://im5.ezgif.com/tmp/ezgif-5-9da1b35692.gif)
 
 
-### Edit and automate video production using Node
+### Edit and automate media production using Nodejs
 
 This is just a basic example. You can do way more with Shotstack Node SDK like: 
-- Beautify videos by adding effects, transitions, overlays, titles
+- Beautify video by adding effects, transitions, overlays, titles
 - Automate video editing and production
 - Personalize videos with code
 - Convert media files i.e. gif, mp3, mp4, jpg, bmp, and png
 - Generate, add SRT files to multiple videos concurrently
 - Use AI to generate media assets to produce videos & more
 
-See our other [tutorial articles](https://shotstack.io/learn/?utm_source=github&utm_campaign=sample_demos) to learn video editing using Node js. 
+See our other [tutorial articles](https://shotstack.io/learn/?utm_source=github&utm_campaign=sample_demos) to learn media manipulation using Node js. 
